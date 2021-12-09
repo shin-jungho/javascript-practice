@@ -11,13 +11,14 @@
 
 // group.showList();
 
-let user = {
-  name: 'John',
-  toString() {
-    return this.name;
-  }
-};
+// let user = {
+//   name: 'John',
+//   toString() {
+//     return this.name;
+//   }
+// };
 
-for (let key in user) { 
-  console.log(key)
-};
+// for (let key in user) { 
+//   console.log(key)
+// };
+
